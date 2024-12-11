@@ -7,7 +7,7 @@ Created on Wed Dec 11 02:58:01 2024
 """
 
 ## MUST INSTALL -> to your environment to work conda install scikit-learn=1.3.0 ##
-import sklearn
+
 import pandas as pd
 import streamlit as st
 import pickle
