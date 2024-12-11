@@ -14,7 +14,7 @@ import pickle
 import numpy as np
 
 # Load the model
-with open('rf_clf.pkl', 'rb') as file:
+with open('FinalProj/rf_clf.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Numeric inputs
