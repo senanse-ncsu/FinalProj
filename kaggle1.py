@@ -5,12 +5,12 @@ Created on Wed Dec 11 02:58:01 2024
 
 @author: ashleymantz
 """
-#!pip install -r requirements.txt
+!pip install -r requirements.txt
 ## MUST INSTALL -> to your environment to work conda install scikit-learn=1.3.0 ##
 
 import pandas as pd
 import streamlit as st
-#import pickle
+import pickle
 import numpy as np
 
 # Load the model
