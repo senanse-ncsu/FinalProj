@@ -12,7 +12,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 import numpy as np
-import sklearn
+import scikit-learn
 
 # Load the model
 with open('rf_clf.pkl', 'rb') as file:
