@@ -10,7 +10,7 @@ Created on Wed Dec 11 02:58:01 2024
 
 import pandas as pd
 import streamlit as st
-import pickle
+#import pickle
 import numpy as np
 
 # Load the model
